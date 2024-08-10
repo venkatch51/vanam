@@ -1,0 +1,99 @@
+.title {
+  font-size: 270px !important;
+  line-height: 0.8em;
+  font-family: fangsong;
+}
+h1,h2{
+    font-weight: 500;
+    line-height: 1.2;
+}
+.video-container video {
+  width: 100% !important;
+}
+.flex-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.digital-marketing-headings .digital-heading h1,.digital-marketing-headings .digital-presence h1{
+  font-size: 84px;  
+  line-height: 0.9;
+  letter-spacing: 0.em;
+}
+.digital-marketing-headings .digital-heading h1{
+    text-align: left;
+    max-width: 50%;
+}
+.digital-marketing-headings .digital-presence h1{
+    text-align: right;
+    max-width: 50%;
+    margin-left: auto;
+}
+.comp-ljpk9vtd-container {
+    display: flex;
+}
+#comp-ljpk9vtd .comp-ljpk9vtd-container{
+    box-sizing: border-box;
+    position: relative;
+    padding-top: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 8%;
+    flex-grow: 1;
+    display: var(--l_display, var(--container-display));
+    grid-template-rows: minmax(max-content, 100%);
+    grid-template-columns: minmax(0px, 1fr);
+    --container-layout-type: grid-container-layout;
+    --container-display: grid;
+}
+.section-three {
+    margin-left: 33px;
+    margin-right: 33px;
+}
+.section-five{
+    margin-left: 33px;
+    margin-right: 33px;
+}
+.echo-project img , .fiden-project img, .nomad-project img, .klob-project img{
+    /* width: 557px;
+    height: 556px; */
+    width: 95%;
+}
+.our-project-grid{
+    background-color: rgba(var(--bg,var(--color_11,color_11)),var(--alpha-bg,1));
+    
+}
+.first-grid,.sec-grid{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background-color: rgb(240,255,150);
+}
+.footer {
+    background-color: rgb(240,255,150);
+    padding-left: 33px;
+    padding-bottom: 30px;
+    padding-right: 33px;
+    padding-top: 30px;  
+}
+.seeking-what-next {
+    font-size: 90px;
+    color: #000000;
+    font-family: monospace;
+}
+ul.footer-link {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+a{
+    text-decoration: none !important;
+    color: #000 !important;
+}
+.social-media-links{
+    float: right;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+
